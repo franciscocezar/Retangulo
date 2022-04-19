@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5500C22C-E35B-45CE-8D35-675B52D1F68A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Retangulo.cs">
+    <Files>
+      <File FileName="Program.cs" Line="12" Column="2" />
+      <File FileName="Retangulo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjetoRetangulo" expanded="True">
+            <Node name="ProjetoRetangulo" expanded="True">
+              <Node name="Retangulo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProjetoRetangulo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
